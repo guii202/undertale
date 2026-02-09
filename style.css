@@ -39,8 +39,8 @@ body{
 }
 
 .bodyrotas{
-    display: flex;
-    justify-content: center;
+    border-radius: 20px;
+    background-color: rgba(0, 0, 0, 0.9)
 }
 
 .div1rotas{
